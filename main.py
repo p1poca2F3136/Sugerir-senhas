@@ -10,5 +10,5 @@ def generate_password(length):
     return password
 
 # Exemplo de uso: gerar uma senha de 12 caracteres
-password = generate_password(12) #Se alguém quiser que gere uma senha com mais caracteres basta substituir (12) pelo número desejado
+password = generate_password(12) #Se alguém quiser que gere uma senha com mais caracteres basta substituir (12) pelo número desejado.
 print(password)
