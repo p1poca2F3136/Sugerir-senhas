@@ -7,8 +7,8 @@ Este é um script simples em Python que utiliza a biblioteca `random` e `string`
 1. Clone o repositório para o seu ambiente local.
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/p1poca2F3136/Sugerir-senhas/blob/main/main.py
+    cd Sugeri-senhas
     ```
 
 2. Certifique-se de ter Python instalado em seu sistema.
@@ -16,7 +16,7 @@ Este é um script simples em Python que utiliza a biblioteca `random` e `string`
 3. Execute o programa:
 
     ```bash
-    python nome-do-programa.py
+    python main.py
     ```
 
 4. A senha gerada será exibida no console.
