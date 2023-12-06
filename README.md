@@ -30,5 +30,3 @@ Sinta-se à vontade para personalizar o código conforme suas necessidades. Algu
 - **Selecionar caracteres específicos**: Altere a variável `characters` para incluir ou excluir tipos específicos de caracteres.
 
 - **Integração com outras aplicações**: Incorpore essa função em outros scripts ou projetos que necessitem de geração segura de senhas.
-
-Lembre-se de explorar e experimentar! Divirta-se gerando senhas aleatórias.
